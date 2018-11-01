@@ -4,7 +4,7 @@ In the context of optimizing the production of a fully connected "smart" 3d prin
 ***
 
 **Abstract — The genetic algorithm for factory orchestration is
-needed due to its good results and flexibility. We present a genetic
+interesting due to its good results and flexibility. We present a genetic
 algorithm matching a 3D-printing factory setup and its
 surroundings so as to reduce the time needed and improve the
 quality of production. We programmed a factory setup to include
